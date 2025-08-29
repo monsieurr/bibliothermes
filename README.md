@@ -1,6 +1,5 @@
 # Bibliothermes
-Allow the user to retireve bookmarks from different browsers (Firefox, Chrome, ...).
-The bookmarks can then be viewed directly from the terminal.
+Allow the user to retrieve and see bookmarks from different browsers (Firefox, Chrome, ...) inside a terminal.
 The goal is to provide a lightweight program running in the terminal to quickly access the user's bookmarks from all browsers
 without opening a specific browser
 
@@ -19,3 +18,4 @@ without opening a specific browser
   help              - Show this help message
   exit              - Quit the program
 ```
+
